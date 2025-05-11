@@ -1,3 +1,4 @@
+Temario Clase
 Tema 01: Introducción
 Tema 02: Identificación de elementos
 Tema 03: Uso de estructuras de control (if, for, while, switch)
@@ -12,3 +13,49 @@ Tema 11: Lectura y Escritura (I/O)
 
 //
 Tema 12: Conectar a una Base de Datos
+
+Repaso General
+1. Entorno Java
+    1. Instalar JDK
+    2. Instalar IDE
+2. Java Basics
+    1. Data Types
+    2. Operators
+    3. Control Flow
+    4. Methods
+    6. Arrays
+3. OOP
+    1. Classes
+    2. Inheritance (extends)
+    3. Polymorphism (Method Overloading/Overriding)
+    4. Encapsulation (Private Fields + Getters/Setters)
+    5. Abstraction (Abstract Class, Interfaces)
+4. Collections & Data Structures
+    1. Lists (ArrayList, LinkedList)
+    2. Sets (HashSet, TreeSet)
+    3. Maps (HashMap, TreeMap)
+    4. Sorting & Searching (Collections.sort(), Comparator)
+    5. Iterator
+5. Exception Handling & File I/O
+    1. Try-Catch-Finally
+    2. File Handling (FileReader, FileWriter, BufferedReader)
+6. Database Connectivity JDBC
+    1. Use JDBC -> Connect to Database
+    2. Perform CRUD (Create, Read, Update, Delete)
+7. Introduction to Java 8+
+    1. Lambda Expressions
+    2. Stream API (filter, map, collect)
+    3. Optional Class (Avoid NullPointerException)
+8. Projects
+    1. Library Management System OOP + File I/O + DB
+    2. Weather APP
+    3. Chat App (Using Networking with Sockets)
+9. Tools And Best Practices
+    1. Git & GitHub
+    2. Maven/Gradle
+    3. JUnit
+    4. Debugging
+10. Explore Frameworks
+    1. Spring Boot
+    2. Hibernate
+    3. JavaFX
